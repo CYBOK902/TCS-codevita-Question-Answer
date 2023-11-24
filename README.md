@@ -1,5 +1,4 @@
-# TCS-codevita-Question-Answer
-Zero Count
+# Zero Count- Tcs codevita
 Problem Description
 You are given a binary string B of length L which contains K ones and remaining zeros. You are required to place the K ones in the binary string in such a way that the longest consecutive zeros have the least length possible. Once such a binary string is constructed, you are required to print the length of the contiguous block of zeros, which has the largest length.
 
